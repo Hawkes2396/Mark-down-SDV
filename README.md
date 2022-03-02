@@ -13,3 +13,4 @@
    [title](https://www.bing.com/search?q=google&qs=n&form=QBRE&msbsrank=6_7__0&sp=-1&pq=google&sc=7-6&sk=&cvid=828DDCD18BBB406D8959E3EEB4FF6793)
 
 `console.log("Hello World!")`
+That is funny! :joy:
